@@ -1,0 +1,6 @@
+C:\Users\andre\Documents\Visual Studio 2017\Proyectos\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe.config
+C:\Users\andre\Documents\Visual Studio 2017\Proyectos\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe
+C:\Users\andre\Documents\Visual Studio 2017\Proyectos\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.pdb
+C:\Users\andre\Documents\Visual Studio 2017\Proyectos\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Visual Studio 2017\Proyectos\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
+C:\Users\andre\Documents\Visual Studio 2017\Proyectos\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb
