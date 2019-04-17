@@ -17,6 +17,12 @@ namespace ConsoleAppTest
             b = Convert.ToInt32(Console.ReadLine());
             suma = a + b;
             Console.WriteLine("{0} + {1} = {2}", a, b, suma);
+            Alumno alumno = new Alumno();
+            alumno.Codigo = 201521543;
+            alumno.Nombre = "Andre";
+            alumno.Apellido = "Gonzales Soncco";
+            alumno.Carrera = "Ing. de Software";
+            Console.WriteLine("Alumno: {0} {1} estudia {2}",alumno.Nombre,alumno.Apellido,alumno.Carrera);
             Console.ReadKey();
         }
     }
